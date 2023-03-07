@@ -1,0 +1,31 @@
+.background {
+    width: 100%;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+    background: radial-gradient(circle, rgba(0,212,255,1) 0%, rgba(9,9,121,1) 100%);
+}
+
+.content {
+    max-width: 500px;
+    height: auto;
+    text-align: center;
+    color: var(--white);
+}
+
+.content__resource {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 0.5rem;
+}
+
+.content__resource img {
+    width: 64px;
+    margin: 1rem;
+}
+
+a{
+    text-decoration: none;
+    color: var(--white);
+    font-style: italic;
+}
