@@ -1,0 +1,21 @@
+/* Files CSS Imports */
+
+
+/* General Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Variables */
+:root {
+    --black: #000000;
+    --white: #FFFFFF;
+    --font-size-sm: 1rem;
+    --font-size-md: 1.5rem;
+    --font-size-lg: 2rem;
+    --breakpoints-sm: 576px;
+    --breakpoints-md: 992px;
+}
