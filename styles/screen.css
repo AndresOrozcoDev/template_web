@@ -20,12 +20,15 @@
 }
 
 .content__resource img {
-    width: 64px;
     margin: 1rem;
 }
 
-a{
+a {
     text-decoration: none;
     color: var(--white);
     font-style: italic;
+}
+
+span {
+    font-size: var(--font-size-sm);
 }
