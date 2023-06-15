@@ -4,14 +4,16 @@
 Template to start web development projects (HTML5, CSS and JS)
 
 
+## 📓 Setup
+
 ```bash
 .
 ├── assets              # Folder to store resources.
-│   ├── icons
+│   ├── icons           # Folder to store icons.
 |       └── ...
-│   ├── images
+│   ├── images          # Folder to store images.
 |       └── ...
-│   └── files
+│   └── files           # Folder to store files.
 |       └── ...
 ├── js                  # Folder to create the logic.
 |   └── main.js         # Initial file to create the logic.
@@ -26,7 +28,7 @@ Template to start web development projects (HTML5, CSS and JS)
 └── README.md           # Information file.
 ```
 
-## Authors
+## ✍️ Authors
 
 - [@AndresOrozcoDev](https://github.com/AndresOrozcoDev)
 
