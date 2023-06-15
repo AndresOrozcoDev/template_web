@@ -4,6 +4,7 @@
 Template to start web development projects (HTML5, CSS and JS)
 
 
+```bash
 .
 ├── ...
 ├── test                    # Test files (alternatively `spec` or `tests`)
@@ -11,7 +12,7 @@ Template to start web development projects (HTML5, CSS and JS)
 │   ├── integration         # End-to-end, integration tests (alternatively `e2e`)
 │   └── unit                # Unit tests
 └── ...
-
+```
 
 ## Authors
 
