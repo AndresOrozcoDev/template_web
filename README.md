@@ -1,7 +1,7 @@
 
 # Template Websites
 
-Template to start web development projects (HTML5, CSS and JS)
+Template to start web development projects (HTML5, CSS and JS).
 
 
 ## 📓 Setup
