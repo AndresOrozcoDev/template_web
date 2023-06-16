@@ -30,5 +30,5 @@ Template to start web development projects (HTML5, CSS and JS).
 
 ## ✍️ Authors
 
-- [@AndresOrozcoDev](https://github.com/AndresOrozcoDev)
+- [AndresOrozcoDev](https://github.com/AndresOrozcoDev)
 
