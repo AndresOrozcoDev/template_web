@@ -1,7 +1,7 @@
 
 # Template Websites
 
-Template to start web development projects (HTML5, CSS and JS).
+This template provides minimal web development setup (HTML, CSS and JS) that works responsively.
 
 
 ## 📓 Setup
